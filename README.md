@@ -1,11 +1,11 @@
 # YêuMCPE
 
-©2017 Coder Duy2Phong
-Ngày tạo : 19/8/2017
-Tác giả : Nguyễn Duy Phong
-Nick name : Duy2Phong
-Số điện thoại : 01264023870
-Gmail : duy2phong@gmail.com
+-©2017 Coder Duy2Phong
+-Ngày tạo : 19/8/2017
+-Tác giả : Nguyễn Duy Phong
+-Nick name : Duy2Phong
+-Số điện thoại : 01264023870
+-Gmail : duy2phong@gmail.com
 ______________________________
 Lưu Ý : Không sao chép dưới mọi
 hình thức,tất cả việc copy hay
