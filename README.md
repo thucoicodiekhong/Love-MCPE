@@ -1,7 +1,6 @@
 # YêuMCPE
-=========================
-= ©2017 Coder Duy2Phong =
-=========================
+
+©2017 Coder Duy2Phong
 Ngày tạo : 19/8/2017
 Tác giả : Nguyễn Duy Phong
 Nick name : Duy2Phong
@@ -12,6 +11,8 @@ Lưu Ý : Không sao chép dưới mọi
 hình thức,tất cả việc copy hay
 chế biến lại phải được sự cho
 phép của tôi
++ Nếu bạn muốn phát triển hãy 
+liên hệ với tôi
 ______________________________
 Thông tin plugin :
 - Ngôn ngữ : Tiếng Việt
