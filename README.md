@@ -1,6 +1,8 @@
 # YêuMCPE
 ______________________________
-- ©2017 Coder Duy2Phong
+=========================
+= ©2017 Coder Duy2Phong =
+=========================
 - Ngày tạo : 19/8/2017
 - Tác giả : Nguyễn Duy Phong
 - Nick name : Duy2Phong
