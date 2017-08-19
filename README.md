@@ -20,7 +20,7 @@ Thông tin plugin :
 - Phiên bản : 2.1.0
 - Tình trạng : ổn định
 _____________________________
-/tuvanyeu để biết các lệnh
-/yeu 
-/chiatay 
-/khongyeu
+- /tuvanyeu để biết các lệnh
+- /yeu
+- /chiatay 
+- /khongyeu
