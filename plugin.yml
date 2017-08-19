@@ -1,0 +1,41 @@
+name: YeuMCPE
+main: YeuMCPE\Main
+version: 2.1.0
+api: 3.0.0
+author: Duy2Phong
+description: Thêm 1 chút lãng mạng vào server của bạn !!!
+commands:
+ tuvanyeu:
+  description: §aHiển thị thông tin Plugin
+  usage: "§a/tuvanyeu."
+  aliases: [sl, tuvanyeu]
+  permission: yeumcpe.yeu
+ yeu:
+  description: §a Yêu một người chơi
+  usage: "§a/yeu <tên người chơi>"
+  aliases: [l, fancy, marry, propose]
+  permission: yeumcpe.yeu
+ chiatay:
+  description: §a Chia tay một người chơi
+  usage: "§a/chiatay <tên người chơi>"
+  aliases: [break, dump]
+  permission: yeumcpe.chiatay
+  permission: yeumcpe.chiatay
+ khongyeu:
+  description: §aChuyển sang nếu bạn không muốn yêu
+  usage: "§a/khongyeu <khongyeu | yeu>"
+  aliases: [nl]
+  permission: yeumcpe.khongyeu
+permissions:
+ yeumcpe.yeu:
+  description: "§aHiển thị thông tin Plugin"
+  default: true
+ yeumcpe.yeu:
+  description: "§aCho phép người dùng yêu thích một người chơi khác"
+  default: true
+ yeumcpe.chiatay:
+  description: "§aCho phép người dùng chia tay với người chơi khácr"
+  default: true
+ yeumcpe.khongyeu:
+  description: "§aCho phép người dùng được / không được yêu."
+  default: tru
