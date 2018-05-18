@@ -12,7 +12,7 @@ use pocketmine\utils\Config;
 
 class Main extends PluginBase implements Listener{
     public function onLoad(){
-        $this->getLogger()->info(TextFormat::LIGHT_PURPLE . "YeuMCPE");
+        $this->getLogger()->info(TextFormat::LIGHT_PURPLE . "Love MCPE");
     }
     public function onEnable(){
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
