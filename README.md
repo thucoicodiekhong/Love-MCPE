@@ -11,7 +11,7 @@ Thông tin plugin :
 - Ngôn ngữ : Tiếng Việt
 - Tương thích : [3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12]
 - Phiên bản : 1.1.0
-- Tình trạng : ổn định
+- Tình trạng : (đang cập nhật)
 _____________________________
 - /tuvanyeu để biết các lệnh
 - /yeu
